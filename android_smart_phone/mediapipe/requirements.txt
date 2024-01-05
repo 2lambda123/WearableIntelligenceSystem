@@ -1,6 +1,6 @@
 absl-py
 dataclasses
-numpy == 1.19.3
+numpy == 1.22.0
 opencv-python
 protobuf>=3.11.4
 six
